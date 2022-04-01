@@ -9,4 +9,4 @@ The organization uses the following services:
 * [Google Workspace](https://google.vezel.dev) (Business Standard)
 * [Open Collective](https://opencollective.com/vezel) (Independent Collective)
 * [PayPal](https://paypal.me/vezel) (Business)
-* [Stripe](https://stripe.vezel.dev)
+* [Stripe](https://dashboard.stripe.com)
