@@ -2,6 +2,7 @@
 
 The organization uses the following services:
 
+* [Azure](https://portal.azure.com)
 * [Cloudflare](https://dash.cloudflare.com) (Free)
 * [Dinero](https://app.dinero.dk) (Pro)
 * [Dynadot](https://www.dynadot.com/account) ([#5](https://github.com/vezel-dev/.github/issues/5))
