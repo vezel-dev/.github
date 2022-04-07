@@ -1,7 +1,7 @@
 # Security
 
 Please do not report security issues through GitHub; instead, send an email to
-<vezel@vezel.dev> with all relevant information. You will usually get a response
+<vzl@vezel.dev> with all relevant information. You will usually get a response
 within a day or two.
 
 Once the issue has been confirmed and a fix implemented, a new release will be
