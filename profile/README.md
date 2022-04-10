@@ -1,4 +1,4 @@
-# Vezel
+# Vezel [![Discord](https://img.shields.io/discord/960716713136095232?color=peru&label=discord)](https://discord.gg/wtzCfaX2Nj)
 
 **Vezel** ("fezel") is a non-profit software organization founded in March of
 2022 with a focus on creating and maintaining delightful developer-oriented
