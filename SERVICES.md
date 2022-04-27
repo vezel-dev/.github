@@ -5,6 +5,7 @@ The organization uses the following services:
 * [Cloudflare](https://dash.cloudflare.com) (Free)
 * [Dinero](https://app.dinero.dk) (Pro)
 * [Dynadot](https://www.dynadot.com/account) ([#5](https://github.com/vezel-dev/.github/issues/5))
+* [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (Community)
 * [GitHub](https://github.com/vezel-dev) (Enterprise)
 * [Google Workspace](https://mail.google.com/a/vezel.dev) (Business Starter)
 * [Microsoft Azure](https://portal.azure.com)
