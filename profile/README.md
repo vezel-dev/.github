@@ -1,7 +1,7 @@
 # Vezel
 
 [![Discord](https://img.shields.io/discord/960716713136095232?color=peru&label=discord)](https://discord.gg/wtzCfaX2Nj)
-[![Open Collective](https://img.shields.io/opencollective/all/vezel?color=mediumorchid&label=open%20collective)](https://opencollective.com/vezel)
+[![Open Collective](https://img.shields.io/opencollective/backers/vezel?color=mediumorchid&label=open%20collective)](https://opencollective.com/vezel)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/vezel-dev?color=mediumorchid&label=github%20sponsors)](https://github.com/sponsors/vezel-dev)
 
 **Vezel** ("fezel") is a non-profit software organization founded in March of
