@@ -11,8 +11,9 @@ appropriate for these as issues raised there are likely to be lost or forgotten.
 
 Please respect the following points when posting on the issue tracker:
 
-* Do not post support requests or questions. Check [`SUPPORT.md`](SUPPORT.md) to
-  find better channels for these.
+* Do not post support requests or questions. Instead, check our
+  [support channels](SUPPORT.md).
+* Do not post security issues. See our [security policy](SECURITY.md).
 * Do not violate
   [GitHub's various site policies](https://docs.github.com/en/github/site-policy).
 * Do not post off-topic comments or otherwise derail a discussion.
