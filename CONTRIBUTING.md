@@ -28,7 +28,7 @@ being enacted.
 The ideal bug report is one that is immediately actionable by a person looking
 to resolve it. To that end, a bug report should include:
 
-* The version(s) of all software.
+* The version(s) of all relevant software.
 * A self-contained test case that reproduces the issue, along with instructions
   to trigger the issue.
 * A detailed description of current behavior (including stack traces(s) if
