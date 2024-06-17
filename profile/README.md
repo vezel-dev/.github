@@ -11,6 +11,3 @@ open source and made available under the terms of the exceptionally liberal
 [Zero-Clause BSD License](https://opensource.org/license/0bsd) to ensure that
 everyone can benefit from our work. Our finances are completely transparent on
 [Open Collective](https://opencollective.com/vezel/transactions).
-
-The organization is currently managed by [@alexrp](https://github.com/alexrp)
-and [@Roukanken42](https://github.com/Roukanken42).
