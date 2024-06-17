@@ -1,6 +1,7 @@
 # Vezel
 
 [![Discord](https://img.shields.io/badge/discord-chat-7289da?logo=discord)](https://discord.gg/wtzCfaX2Nj)
+[![Zulip](https://img.shields.io/badge/zulip-chat-394069?logo=zulip)](https://vezel.zulipchat.com)
 [![Open Collective](https://img.shields.io/opencollective/backers/vezel?color=mediumorchid&label=open%20collective)](https://opencollective.com/vezel)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/vezel-dev?color=mediumorchid&label=github%20sponsors)](https://github.com/sponsors/vezel-dev)
 
