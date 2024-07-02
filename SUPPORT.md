@@ -1,8 +1,8 @@
 # Support
 
 If you need assistance, we recommend either using our
-[Discord server](https://discord.gg/wtzCfaX2Nj),
-[Zulip server](https://vezel.zulipchat.com), or the project's
+[Discord server](https://discord.gg/wtzCfaX2Nj) or
+[Zulip server](https://vezel.zulipchat.com), or if applicable, the project's
 [GitHub Discussions](https://docs.github.com/en/discussions) forums.
 
 When seeking help, please note the following:
