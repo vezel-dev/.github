@@ -1,10 +1,14 @@
 # Code of Conduct
 
-For all community areas, please respect
-[GitHub's various site policies](https://docs.github.com/en/github/site-policy)
-and treat your fellow human beings excellently.
+For all Vezel community areas, please respect the following rules:
 
-Content violating GitHub site policies may be deleted. Repeated violations may
-lead to
-[interaction limits](https://docs.github.com/en/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)
-being enacted.
+* Conduct yourself excellently; help us keep this list of rules short.
+* Follow the
+  [GitHub Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies).
+* Do not post NSFW/NSFL content.
+* Do not engage in excessive self-promotion.
+* Do not offer compensated services.
+
+Failure to comply with these rules will result in a warning. Repeated violations
+despite such warnings will, depending on severity, result in temporary or
+permanent removal from the community.
