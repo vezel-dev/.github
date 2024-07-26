@@ -450,6 +450,7 @@ module.exports = tseslint.config({
         "@typescript-eslint/no-useless-constructor": "error",
         "@typescript-eslint/no-useless-empty-export": "error",
         "@typescript-eslint/no-var-requires": "error",
+        "@typescript-eslint/no-wrapper-object-types": "error",
         "@typescript-eslint/non-nullable-type-assertion-style": "error",
         "@typescript-eslint/only-throw-error": "error",
         "@typescript-eslint/parameter-properties": "error",
