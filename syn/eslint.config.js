@@ -254,7 +254,6 @@ module.exports = tseslint.config({
                 "ts-expect-error": false,
             },
         ],
-        "@typescript-eslint/ban-types": "error",
         "@typescript-eslint/class-literal-property-style": "error",
         "@typescript-eslint/class-methods-use-this": "error",
         "@typescript-eslint/consistent-generic-constructors": "error",
